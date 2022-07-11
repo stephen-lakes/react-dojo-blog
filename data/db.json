@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party",
+      "body": "Why do we use it?\nIs is a long established fact that a reader will be distracted",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "handling submit event",
+      "body": "submit event in forms",
+      "author": "Stephen",
+      "id": 4
+    },
+    {
+      "title": "My new blog",
+      "body": "Blog post party ",
+      "author": "Stephen",
+      "id": 5
+    }
+  ]
+}
