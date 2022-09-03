@@ -1,22 +1,40 @@
 {
   "blogs": [
     {
-      "title": "Opening Party",
-      "body": "Why do we use it?\nIs is a long established fact that a reader will be distracted",
-      "author": "Yoshi",
-      "id": 2
-    },
-    {
       "title": "handling submit event",
       "body": "submit event in forms",
       "author": "Stephen",
       "id": 4
     },
     {
-      "title": "My new blog",
-      "body": "Blog post party ",
+      "title": "Foreign keys",
+      "body": "A foreign key is a column or group of columns in a relational database table that provides a link between data in two tables. It acts as a cross-reference between tables because it references the primary key of another table, thereby establishing a link between them.\n\nThe table containing the foreign key is called the child table, and the table containing the candidate key is called the referenced or parent table.[4] In database relational modeling and implementation, a candidate key is a set of zero or more attributes, the values of which are guaranteed to be unique for each tuple (row) in a relation. The value or combination of values of candidate key attributes for any tuple cannot be duplicated for any other tuple in that relation. Since the purpose of the foreign key is to identify a particular row of",
       "author": "Stephen",
-      "id": 5
+      "id": 8
+    },
+    {
+      "title": "First Express App",
+      "body": "Introduction to express apps",
+      "author": "Stephen",
+      "id": 9
+    },
+    {
+      "title": "Ajax",
+      "body": "How Ajax works",
+      "author": "mario",
+      "id": 10
+    },
+    {
+      "title": "Installing packages in node",
+      "body": "node",
+      "author": "mario",
+      "id": 11
+    },
+    {
+      "title": "JSON Web Token",
+      "body": "JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties. JWT.IO allows you to decode, verify and generate JWT. JWTs are a good way of securely transmitting information between parties because they can be signed, which means you can be sure that the senders are who they say they are. Additionally, the structure of a JWT allows you to verify that the content hasn't been tampered with....",
+      "author": "mario",
+      "id": 12
     }
   ]
 }
